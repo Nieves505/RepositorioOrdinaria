@@ -1,2 +1,1 @@
-Primer archivo
-Versión modificada
+Texto para la versión de merge
